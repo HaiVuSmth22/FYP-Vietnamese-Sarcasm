@@ -1,0 +1,34 @@
+# Data processing
+numpy
+pandas
+scipy
+openpyxl
+
+# Baseline, metrics, and annotation agreement
+scikit-learn
+
+# Transformer fine-tuning
+# Install CUDA-enabled PyTorch separately before this file; see README.
+# torch intentionally omitted to avoid replacing the working CUDA build.
+transformers
+datasets
+accelerate
+sentencepiece
+protobuf
+
+# Vietnamese word segmentation and emoji handling
+underthesea
+emoji
+
+# Collecting permitted public comments
+google-api-python-client
+requests
+beautifulsoup4
+lxml
+python-dotenv
+
+# Figures, notebook, and progress
+matplotlib
+tqdm
+jupyterlab
+ipykernel
